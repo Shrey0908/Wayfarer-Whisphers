@@ -1,0 +1,46 @@
+.navbar{
+    padding-left: 3%;
+    padding-right: 3%;
+    margin: 0%;
+}
+.img1{
+    z-index: -1;
+    height: 100%;
+    width:100%;
+}
+.container-fluid{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.centered{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+.works{
+    padding: 80px 0;
+    background-color: lightgray;
+}
+.img2{
+    background-size: cover;
+    background-color: lightgray;
+    /* float: left; */
+}
+.row1{
+    text-align: center;
+}
+.column2{
+    position: relative;
+    bottom: 14.5px;
+    height: 100%;
+    width: 100%;
+}
+.column{
+    width: fit-content;
+    font-size: 20px;
+}
